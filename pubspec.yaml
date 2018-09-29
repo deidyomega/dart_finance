@@ -1,8 +1,8 @@
 name: dart_finance
 description: A starting point for Dart libraries or applications.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: Matthew Harris <email@example.com>
+version: 1.0.0
+homepage: https://github.com/deidyomega/dart_finance
+author: Matthew Harris <943559+deidyomega@users.noreply.github.com>
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
